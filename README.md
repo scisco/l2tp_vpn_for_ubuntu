@@ -1,11 +1,11 @@
-l2tp_vpn_for_ubuntu
+A script for setting up L2TP on Ubuntu
 ===================
 
-A script for setting up L2TP on Ubuntu
+**Important**: This script is intended to be used as part of a larger setup process. Do NOT use this script alone. This script lacks some important setup steps. If you just need to setup L2TP vpn server on your system, use the original script at https://github.com/sarfata/voodooprivacy
 
 ## Source
 
-This script is copied from [voodooprivacy](https://github.com/sarfata/voodooprivacy) by Thomas Sarlandie
+This script is forked from [voodooprivacy](https://github.com/sarfata/voodooprivacy) by Thomas Sarlandie
 
 ## License
 
